@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dyue9742
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @dyue9742!
+- 👀 I’m interested in C++/Go/JavaScript/Python;
+- 🌱 I’m currently learning artificial intelligence, practicing programming languages;
+- 💞️ I’m looking to collaborate on ... (first, want to seeking a job);
+- 📫 How to reach me [Instagram: yue_42; Twitter: @Daiy_9742].
 
 <!---
 dyue9742/dyue9742 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
