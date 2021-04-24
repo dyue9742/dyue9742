@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dyue9742!
 - 👀 I’m interested in C++/C#/JavaScript/Python;
 - 🌱 I’m currently learning artificial intelligence, practicing programming languages;
-- 💞️ I’m looking to collaborate on ... (first, want to seeking a job);
+- 💞️ I’m looking to collaborate on ... (first, want to seek a job);
 - 📫 How to reach me [Instagram: yue_42; Twitter: @Daiy_9742].
 
 <!---
